@@ -1,3 +1,7 @@
+/*Write a menu driven program to perform the following operations on the STACK
+ using an array. 1. Push 2. Pop 3. Peep 4. Change 5. Display the contents 6. Exit*/
+
+
 #include <stdio.h>
 #define MAX 5
 
